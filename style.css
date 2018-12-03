@@ -1,0 +1,38 @@
+
+body{
+	text-align: center;
+	background: grey;
+
+}
+h1{
+font-size: 60px;
+color: gold;
+font-family: 'Mukta', sans-serif;
+text-align: center;
+}
+
+h2{ background-color: black;
+	color: white;
+	text-align: center;
+	font-family: 'Mukta', sans-serif;
+	}
+
+h3{ background-color: black;
+	color: white;
+	text-align: center;
+	font-family: 'Mukta', sans-serif;
+
+}
+
+img{
+	width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     
+}
+
+
+.section{
+	background-color: white;
+	box-shadow: 1px 10px 30px rgb(220,220,220)
+}
